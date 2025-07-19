@@ -35,8 +35,7 @@ O projeto foi desenvolvido com um conjunto de tecnologias modernas e eficientes,
 
 1. **Clone o repositório:**
     
-    `git clone https://github.com/MelquiMartins42/auth-flow
-    cd seu-projeto`
+    `git clone https://github.com/MelquiMartins42/auth-flow`
     
 2. **Configure o banco de dados:**
 Certifique-se de ter o Docker instalado e execute o seguinte comando para iniciar o contêiner do PostgreSQL:Bash
